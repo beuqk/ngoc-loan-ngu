@@ -10,7 +10,7 @@
   /* 3. Đổi ảnh nền tại đây */
   background-image: url(../img/bg.webp); 
   background-size: cover;
-  background-position: 50%;
+  background-position: 40%;
   -webkit-filter: blur(4px);
 }
 
