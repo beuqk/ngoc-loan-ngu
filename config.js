@@ -10,7 +10,7 @@ const CONFIG = {
     question:'Có thật là cậu bị thiểu năng không vậy 😊😊',
     reasonPlaceholder: 'Trả lời',
     btnReply: 'Gởi ! 💌💌',
-    reply: 'Mình bị thiểu năng thật mà :',
+    reply: 'Mình bị thiểu năng thật mà :(',
     mess: 'Mình biết mà , đúng là chỉ thiểu năng mới bấm zo 🥰. Love you 300.000 😘😘',
     messDesc: '💬💬 Nhắn tin cho Thành Anh nha. 💬💬',
     btnAccept: 'Ok lun 💖',
